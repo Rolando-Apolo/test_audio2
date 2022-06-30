@@ -9,8 +9,8 @@ let buttonPlay;
 
 function preload() {
   //song = loadSound('tecladomp.mp3');
-  //song = loadSound('https://raw.githubusercontent.com/Rolando-Apolo/audios/main/tecladomp.mp3');
-  song = loadSound('https://cdn.freesound.org/previews/425/425556_4929134-lq.mp3');
+  song = loadSound('https://raw.githubusercontent.com/Rolando-Apolo/audios/main/tecladomp.mp3');
+  //song = loadSound('https://cdn.freesound.org/previews/425/425556_4929134-lq.mp3');
 }
 
 function setup() {
